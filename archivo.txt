@@ -1,2 +1,2 @@
-Esto es texto random
+BASEEsto es texto random
 Con varias líneas
